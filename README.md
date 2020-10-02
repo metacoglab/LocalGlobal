@@ -1,4 +1,4 @@
-# LocalGlobal
+# RouaultFlemingLocalGlobal
 
 This repository contains analysis code for the following paper: 
 Rouault M. & Fleming S. M. Formation of global self-beliefs in the human brain. (2020)
